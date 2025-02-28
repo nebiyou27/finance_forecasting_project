@@ -1,7 +1,7 @@
-yfinance
-pandas
-numpy
-matplotlib
-seaborn
-statsmodels
+yfinance 
+pandas 
+numpy 
+matplotlib 
+seaborn 
+statsmodels 
 scikit-learn
