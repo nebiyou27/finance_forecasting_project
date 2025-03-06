@@ -1,0 +1,5 @@
+Portfolio Performance Summary
+Historical Equal Weights Final Value: $16767.4
+Historical Optimal Weights Final Value: $16767.4
+Forecast Equal Weights Final Value: $11144.18
+Forecast Optimal Weights Final Value: $11320.91
